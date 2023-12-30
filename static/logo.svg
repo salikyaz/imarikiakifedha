@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="55" viewBox="0 0 56 55">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-22 -12) translate(0 14) translate(25) translate(.312 .791)">
+                        <circle cx="24.569" cy="24.569" r="23.778" fill="#393835" stroke="#FFB200" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.854"/>
+                         <text x="25" y="60" font-family="Arial" font-size="40" fill="black" text-anchor="end" alignment-baseline="middle">I</text>
+
+                         <text x="50" y="60" font-family="Arial" font-size="40" fill="black" text-anchor="middle" alignment-baseline="middle">K</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
